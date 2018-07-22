@@ -13,3 +13,4 @@ crystal:
 matrix:
   allow_failures:
   - crystal: nightly
+  
